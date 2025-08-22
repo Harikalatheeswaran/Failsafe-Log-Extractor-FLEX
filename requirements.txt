@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.2
+rich==13.4.1
+pynput==1.7.6
+openpyxl==3.1.2
+asammdf==7.1.0
+pandas==2.0.3
+urllib3==1.26.16
